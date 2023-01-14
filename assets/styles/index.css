@@ -1,0 +1,32 @@
+.icon{
+    width: 30px;
+    height: 30px;
+}
+.about-me{
+    background-color: beige;
+    padding: 20px;
+    border-radius: 5px;
+    display: grid;
+    gap: 20px;
+}
+.skills-container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 0 30px;
+    flex-wrap: ;
+
+}
+.skills-container > div {
+    background-color: white;
+    border: 1px solid dimgrey;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 7px 10px dimgray;
+    max-width: 150px;
+    min-width: 150px;
+}
+.skills-container > div > ul{
+    margin-left: 30px;
+    list-style: circle;
+}
