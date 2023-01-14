@@ -1,0 +1,16 @@
+.card-professional-experience {
+    border: 1px solid beige;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+    display: grid;
+    gap: 10px;
+}
+.card-professional-experience{
+    display: grid;
+    gap: 10px;
+    border-top: 30px;
+}
+.work-description {
+
+}
