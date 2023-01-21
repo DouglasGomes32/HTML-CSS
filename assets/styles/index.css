@@ -14,7 +14,6 @@
     justify-content: center;
     gap: 30px;
     padding: 0 30px;
-    flex-wrap: ;
 
 }
 .skills-container > div {
@@ -23,7 +22,7 @@
     border-radius: 5px;
     padding: 20px;
     box-shadow: 7px 10px dimgray;
-    max-width: 150px;
+    max-width: 450px;
     min-width: 150px;
 }
 .skills-container > div > ul{
@@ -32,4 +31,10 @@
 }
 .skills-container > div > ul > li {
     text-transform: uppercase;
+}
+.PCD{
+    font-weight: 100;
+}
+.Obetivos-na-compania{
+    font-weight: 100
 }

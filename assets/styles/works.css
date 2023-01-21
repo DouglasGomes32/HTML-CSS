@@ -5,7 +5,7 @@
     display: grid;
     gap: 20px;
 }
-}
+
 .card-professional-experience{
     display: grid;
     gap: 10px;
@@ -29,4 +29,12 @@
     box-shadow: 3px 3px dimgray;
     max-width: 750px;
     min-width: 150px;
+}
+
+.card-professional-experience{
+    background-color: beige;
+    padding: 20px;
+    border-radius: 5px;
+    display: grid;
+    gap: 20px;
 }
