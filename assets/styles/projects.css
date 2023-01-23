@@ -1,0 +1,36 @@
+.My-project {
+    background-color: beige;
+    padding: 20px;
+    border-radius: 5px;
+    display: grid;
+    gap: 20px;
+}
+
+.My-project {
+    display: grid;
+    gap: 10px;
+    border-top: 30px;
+}
+.work-description {
+
+}
+.Conceito-5s {
+        padding: 20px;
+        border-radius: 5px;
+        display: grid;
+        gap: 05px;
+        border-radius: 6px;
+        margin-left: 15px;
+        list-style: circle;
+        background-color: white;
+        border: 1px solid dimgrey;
+        border-radius: 25px;
+        padding: 20px;
+        box-shadow: 3px 3px dimgray;
+        max-width: 750px;
+        min-width: 150px;
+}
+
+.Conceitos-5s {
+    font-weight: 300;
+}
